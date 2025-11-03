@@ -7,7 +7,7 @@ start_codon = "ATG"
 exon1 = "TTAAATTAGCGC"
 intron = "GGTATAGTAAG"
 exon2 = "CTTGGA"
-stop_codon = "TAA"
+stop_codon = "UAA" #CORRECTED 
 three_UTR = "CGA"
 
 #all
